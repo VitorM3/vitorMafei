@@ -1,4 +1,4 @@
-<div style="display:flex; align-items:center; width:100%; justify-content:center; flex-direction:column; gap:1rem;">
+<div align="center">
 <img src="./images/Marca.svg" alt="Logo Marca" style="width:200px;" />
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -14,16 +14,26 @@
 </div>
 
 
-
 <h1>
   Hey There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 </h1>
 
-<p style="text-align:center;">Style made to match with the GitHub dark mode, I like more this theme 🌙</p>
+<p align="center">Style made to match with the GitHub dark mode, I like more this theme 🌙</p>
 
 ### :man_technologist: About Me :
-Escreva algo aqui 
+-  :telescope: Hello everyone, my name is Vitor, I'm 18 years old 
+-  :zap: I'm a fullstack web developer from Brazil
+-  	:earth_americas:  I am currently working as a software developer at AGPR5
+- :space_invader: In my free time I like to read books, play online games and improve my knowledge 
+- :penguin: The penguin is a little joke with my nickname
+
+<div align="center">
+  <img  src="https://media.giphy.com/media/qLpLfeNVv0RCZpXw53/giphy.gif" width="400px" height="400px" />
+ </div>
+
+
+
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
